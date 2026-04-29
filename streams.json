@@ -1,0 +1,13 @@
+﻿{
+  "updated": "2026-04-29T00:00:00Z",
+  "channels": [
+    { "id": "gym_motiv",  "name": "Gym Motivation 2026",  "youtubeId": "S-zWt5mSwhc", "categoria": "FITNESS",  "icono": "💪", "url": "" },
+    { "id": "fitness_wk", "name": "Fitness Workout Music", "youtubeId": "72qDoA3SwEs", "categoria": "FITNESS",  "icono": "🏋", "url": "" },
+    { "id": "workout_r",  "name": "Workout Radio 24/7",    "youtubeId": "G7ksDUqUVqA", "categoria": "FITNESS",  "icono": "🎵", "url": "" },
+    { "id": "gym_128",    "name": "Gym Music 128 BPM",     "youtubeId": "CxqCkeA63Us", "categoria": "FITNESS",  "icono": "⚡", "url": "" },
+    { "id": "running_r",  "name": "Running Sport Radio",   "youtubeId": "YDuz4mAtyf4", "categoria": "SPORT",    "icono": "🏃", "url": "" },
+    { "id": "maxoazo",    "name": "Max Oazo Live Radio",   "youtubeId": "OeZ88byX6E4", "categoria": "SPORT",    "icono": "🎧", "url": "" },
+    { "id": "nature",     "name": "Nature Sounds 24/7",    "youtubeId": "-v97MKSgDHk", "categoria": "WELLNESS", "icono": "🌿", "url": "" },
+    { "id": "meditation", "name": "Meditation 24/7",       "youtubeId": "inpok4MKVLM", "categoria": "WELLNESS", "icono": "🧘", "url": "" }
+  ]
+}
