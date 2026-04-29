@@ -1,4 +1,4 @@
-﻿import json, subprocess, sys
+﻿import json, subprocess, sys, os
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -13,24 +13,31 @@ CHANNELS = [
     {"id":"meditation", "name":"Meditation 24/7",       "youtubeId":"inpok4MKVLM","categoria":"WELLNESS", "icono":"🧘"},
 ]
 
+DENO_PATH = os.path.expanduser("~/.deno/bin/deno")
+
 def resolve(yid):
     try:
-        r = subprocess.run(["yt-dlp","--get-url","-f","b","--no-playlist",f"https://www.youtube.com/watch?v={yid}"],
-            capture_output=True,text=True,timeout=30)
-        lines=[l.strip() for l in r.stdout.strip().splitlines() if l.strip()]
+        cmd = ["yt-dlp", "--get-url", "-f", "b", "--no-playlist"]
+        if os.path.exists(DENO_PATH):
+            cmd += ["--js-runtimes", f"deno:{DENO_PATH}"]
+        cmd.append(f"https://www.youtube.com/watch?v={yid}")
+        r = subprocess.run(cmd, capture_output=True, text=True, timeout=40)
+        lines = [l.strip() for l in r.stdout.strip().splitlines() if l.strip()]
         return lines[0] if lines and lines[0].startswith("http") else ""
-    except: return ""
+    except Exception as e:
+        print(f"ERROR: {e}", file=sys.stderr)
+        return ""
 
-ok=0
-resolved=[]
+ok = 0
+resolved = []
 for ch in CHANNELS:
-    print(f"  {ch['name']}...",end=" ",flush=True)
-    url=resolve(ch["youtubeId"])
+    print(f"  {ch['name']}...", end=" ", flush=True)
+    url = resolve(ch["youtubeId"])
     print("OK" if url else "FAIL")
-    if url: ok+=1
-    resolved.append({**ch,"url":url})
+    if url: ok += 1
+    resolved.append({**ch, "url": url})
 
-out={"updated":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),"ok":ok,"total":len(CHANNELS),"channels":resolved}
-Path("streams.json").write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding="utf-8")
+out = {"updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "ok": ok, "total": len(CHANNELS), "channels": resolved}
+Path("streams.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
 print(f"Done: {ok}/{len(CHANNELS)}")
-if ok==0: sys.exit(1)
+if ok == 0: sys.exit(1)
