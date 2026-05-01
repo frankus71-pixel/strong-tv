@@ -1,0 +1,29 @@
+﻿[
+  {
+    "id": "serie-prueba",
+    "titulo": "Serie de prueba",
+    "categoria": "Pruebas",
+    "anio": 2026,
+    "poster": "https://via.placeholder.com/300x450.png?text=F71TV+Serie",
+    "sinopsis": "Serie de prueba para validar temporadas y episodios.",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+            "tipo": "m3u8"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "tipo": "mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
