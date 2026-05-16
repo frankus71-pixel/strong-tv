@@ -1,0 +1,19 @@
+﻿{
+  "nombre": "STRONG TV Cloud",
+  "version": "1.0.0",
+  "actualizado": "2026-05-01",
+  "app": "F71TV / STRONG TV",
+  "streams": "streams.json",
+  "canales": "canales.m3u",
+  "peliculas": "peliculas.json",
+  "series": "series.json",
+  "categorias": [
+    "TV",
+    "Películas",
+    "Series",
+    "Fitness",
+    "Sport",
+    "Wellness",
+    "Pruebas"
+  ]
+}

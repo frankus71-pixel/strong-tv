@@ -1,125 +1,69 @@
-{
-    "updated": "2026-05-16T18:00:00Z",
-    "channels": [
-        {
-            "id": "gym_motiv",
-            "name": "Gym Motivation 2026",
-            "url": "",
-            "icono": "GYM",
-            "youtubeId": "S-zWt5mSwhc",
-            "categoria": "FITNESS"
-        },
-        {
-            "id": "fitness_wk",
-            "name": "Fitness Workout Music",
-            "url": "",
-            "icono": "FIT",
-            "youtubeId": "72qDoA3SwEs",
-            "categoria": "FITNESS"
-        },
-        {
-            "id": "workout_r",
-            "name": "Workout Radio 24/7",
-            "url": "",
-            "icono": "WRK",
-            "youtubeId": "G7ksDUqUVqA",
-            "categoria": "FITNESS"
-        },
-        {
-            "id": "gym_128",
-            "name": "Gym Music 128 BPM",
-            "url": "",
-            "icono": "128",
-            "youtubeId": "CxqCkeA63Us",
-            "categoria": "FITNESS"
-        },
-        {
-            "id": "redbull_hd",
-            "name": "Red Bull TV HD",
-            "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-            "icono": "RB",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "freesports",
-            "name": "World of FreeSports",
-            "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
-            "icono": "FS",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "fuel_tv",
-            "name": "Fuel TV",
-            "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-            "icono": "FUEL",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "outdoor",
-            "name": "Outdoor Channel",
-            "url": "https://rakutenaa-mainstreammediaoutdoorchannel-rakuten.amagi.tv/playlist/rakutenAA-mainstreammediaoutdoorchannel-rakuten/playlist.m3u8",
-            "icono": "OC",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "motorsport",
-            "name": "Motorsport Network",
-            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
-            "icono": "MOTO",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "dazn_combat",
-            "name": "DAZN Combat",
-            "url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
-            "icono": "DAZN",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "running_r",
-            "name": "Running Sport Radio",
-            "url": "",
-            "icono": "RUN",
-            "youtubeId": "YDuz4mAtyf4",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "maxoazo",
-            "name": "Max Oazo Live Radio",
-            "url": "",
-            "icono": "MAX",
-            "youtubeId": "OeZ88byX6E4",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "nature",
-            "name": "Nature Sounds 24/7",
-            "url": "",
-            "icono": "NAT",
-            "youtubeId": "-v97MKSgDHk",
-            "categoria": "WELLNESS"
-        },
-        {
-            "id": "meditation",
-            "name": "Meditation 24/7",
-            "url": "",
-            "icono": "MED",
-            "youtubeId": "inpok4MKVLM",
-            "categoria": "WELLNESS"
-        },
-        {
-            "id": "vivekananda",
-            "name": "Thema Vivekananda",
-            "url": "https://thema-vivekanald-rakuten.amagi.tv/hls/amagihlsdatarakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8",
-            "icono": "ZEN",
-            "youtubeId": "",
-            "categoria": "WELLNESS"
-        }
-    ]
+﻿{
+    "updated":  "2026-04-30T20:22:04Z",
+    "channels":  [
+                     {
+                         "id":  "gym_motiv",
+                         "name":  "Gym Motivation 2026",
+                         "url":  "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777598510/ei/zqvzaey2J-2hw-APpPPCoQg/ip/90.160.143.26/id/S-zWt5mSwhc.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-h5qzen7s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpwSsH45XjvUIjqycsCAHvP1Boog6JmRwSjeLrgdm0Yq6q1kFOYWDvfR9aHbntq6IXvl9ySD_cp/spc/96Xrv_kJXrvatySapPrClhBmujHAmA5XdfdrrYFD7RQBUvK4Yw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1350000/met/1777576911,/mh/Mc/mm/44/mn/sn-h5qzen7s/ms/lva/mv/m/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1777576595/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAPae7Dh0FYew_g1BlzW-QHHmc_khGTfKh1E3nIkivj2HAiEA9ZD9PV8lO-V0lgkZmkBdm0Uj2WeBB0rKqzB6lTLFr2s%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgZnKlNXLljmOtINFUiEhzY9k0WysWTkgCCKCOMz4ROwwCIHLWg0zThoq9CqPRB4UlcK-7RkUYmWG1br0R59OgHhIy/playlist/index.m3u8",
+                         "icono":  "GYM",
+                         "youtubeId":  "S-zWt5mSwhc",
+                         "categoria":  "FITNESS"
+                     },
+                     {
+                         "id":  "fitness_wk",
+                         "name":  "Fitness Workout Music",
+                         "url":  "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777598513/ei/0avzaZ7EEdnPp-oP8-2RsQ4/ip/90.160.143.26/id/72qDoA3SwEs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-h5qzen7s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpV5C_NyXZ8GXUpPP2OfmwBATSnZssJE_L3_jm_NvTco_fu_aqZ-QiiaUI0ptqL2-n49R7wY8pA/spc/96Xrv0YfrbJ1mTjp-n6uilmsNoi_srxjYeOpPYvTAH1RHCTY5g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1350000/met/1777576914,/mh/9P/mm/44/mn/sn-h5qzen7s/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1777576595/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgVBMQKMYc3G7DbLDDdmWV6XdbozRC9npfiaIYP4USrWACIEpSHTObXMvFh8MLdv9yR8Aa1iu465Hn8B8b-cLcDHip/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKCt7IQ5VAJeZ6thxFOG8XaCemcxXtDz6qX-C-DgVDbNAiBLdeMax6FUZmrbaGQGv5OqrUGWmRVH2caZuh4xL96Ibw%3D%3D/playlist/index.m3u8",
+                         "icono":  "FIT",
+                         "youtubeId":  "72qDoA3SwEs",
+                         "categoria":  "FITNESS"
+                     },
+                     {
+                         "id":  "workout_r",
+                         "name":  "Workout Radio 24/7",
+                         "url":  "https://rr3---sn-ajaig5-50.googlevideo.com/videoplayback?expire=1777598516\u0026ei=1KvzaYugAeSD0u8Pwfjr4AM\u0026ip=90.160.143.26\u0026id=o-AE7NReNKwsRnwQwUz347Re-Tt1pHHWiAFYB-w6moxgf4\u0026itag=18\u0026source=youtube\u0026requiressl=yes\u0026xpc=EgVo2aDSNQ%3D%3D\u0026cps=309\u0026met=1777576916%2C\u0026mh=1j\u0026mm=31%2C29\u0026mn=sn-ajaig5-50%2Csn-h5q7kned\u0026ms=au%2Crdu\u0026mv=m\u0026mvi=3\u0026pl=22\u0026rms=au%2Cau\u0026initcwndbps=908750\u0026bui=AbKmrwoD_K-AX2W-oBiqfiduiLwOH-kNi-sGzu_70XrZ9giStEZz427gReoWrxHHs9DXUpcr0m4M0Gl-\u0026spc=96Xrv2lUwoZHCKQ9cwIhoyybeUDWGnP4VRWvWMco0Kh64V57yUGN\u0026vprv=1\u0026svpuc=1\u0026mime=video%2Fmp4\u0026rqh=1\u0026cnr=14\u0026ratebypass=yes\u0026dur=374.561\u0026lmt=1644485371493706\u0026mt=1777576658\u0026fvip=4\u0026fexp=51565115%2C51565681\u0026c=ANDROID_VR\u0026txp=1218224\u0026sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt\u0026sig=AHEqNM4wRQIgUjRKAJ1UC9_ju6Q2yBLdAJu0wikfqHbdfi3JkgAvfhcCIQCDlKoNbZQQ7HAy8FkZWTKBSX4XRh20jm_uNbZ3r_QhFw%3D%3D\u0026lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps\u0026lsig=APaTxxMwRgIhAP66ahyVet89PSGjgtb84ysunPnMlc2yEtajTyYJsl1WAiEA7qSjtCXZ0kH2CHDeyMg30fNHISVcnzq9ISmLdfX9mUw%3D",
+                         "icono":  "WRK",
+                         "youtubeId":  "G7ksDUqUVqA",
+                         "categoria":  "FITNESS"
+                     },
+                     {
+                         "id":  "gym_128",
+                         "name":  "Gym Music 128 BPM",
+                         "url":  "",
+                         "icono":  "128",
+                         "youtubeId":  "CxqCkeA63Us",
+                         "categoria":  "FITNESS"
+                     },
+                     {
+                         "id":  "running_r",
+                         "name":  "Running Sport Radio",
+                         "url":  "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777598518/ei/1qvzaeqeOeGo6dsPxNjpwAU/ip/90.160.143.26/id/YDuz4mAtyf4.7/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-h5q7dns7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/es/bui/AbKmrwoVy1IyYDVUXwb6AO_oRvUhzBsnR3JZfRvgNPYstJSHBL0Cf3i5SD11iPgfKW4EiedBIUUUL7FK/spc/96Xrv7iElyLYNoPRAfVSCP0gFJeidvDJeffplHBSoh6jeq-pkg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1415000/met/1777576919,/mh/EK/mm/44/mn/sn-h5q7dns7/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1777576595/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAK844UE3Gc1UibXPcEAGBINO_-6qAgz59DD6KonOlH9eAiB9jYyszq14Yy2ukGU8GtQfaTKuae3T0mAajzyT6ngemQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIDs11pYrn68tufDIvdRXzuOWmlVtYhuPCt32XM-3gHHAiAC05Cf9UAJwoJkfSM92200bFD4d3k30Q0dcjb5uM1kvQ%3D%3D/playlist/index.m3u8",
+                         "icono":  "RUN",
+                         "youtubeId":  "YDuz4mAtyf4",
+                         "categoria":  "SPORT"
+                     },
+                     {
+                         "id":  "maxoazo",
+                         "name":  "Max Oazo Live Radio",
+                         "url":  "",
+                         "icono":  "MAX",
+                         "youtubeId":  "OeZ88byX6E4",
+                         "categoria":  "SPORT"
+                     },
+                     {
+                         "id":  "nature",
+                         "name":  "Nature Sounds 24/7",
+                         "url":  "https://rr4---sn-aigl6ns6.googlevideo.com/videoplayback?expire=1777598523\u0026ei=2qvzafOAOIOG0u8Pv_j60Ac\u0026ip=90.160.143.26\u0026id=o-ANDpAB9qkvAvGgbdUk3S5khi4fR2GAR-83RJBx8eigYm\u0026itag=18\u0026source=youtube\u0026requiressl=yes\u0026xpc=EgVo2aDSNQ%3D%3D\u0026cps=267\u0026met=1777576922%2C\u0026mh=T5\u0026mm=31%2C29\u0026mn=sn-aigl6ns6%2Csn-h5q7knee\u0026ms=au%2Crdu\u0026mv=m\u0026mvi=4\u0026pl=22\u0026rms=au%2Cau\u0026initcwndbps=295000\u0026bui=AbKmrwrkQ6M8w--4wxrfk5CFD_66gHXhmVJNZBjU5PjqhP8a6OIk1aOsliltIIsanTfeQYpJNChRFZhG\u0026spc=96Xrv4dNTTcbdObMoy0Xalt_IhbUsR0gc_8R6vbjKZTIPVSFHgq2\u0026vprv=1\u0026svpuc=1\u0026mime=video%2Fmp4\u0026rqh=1\u0026cnr=14\u0026ratebypass=yes\u0026dur=23267.253\u0026lmt=1770844852573435\u0026mt=1777576422\u0026fvip=4\u0026fexp=51565115%2C51565681\u0026c=ANDROID_VR\u0026txp=7218224\u0026sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt\u0026sig=AHEqNM4wRAIgFhSFTLmFjXckw7XnwoxwhX1H0IvfKK1QcSF7G9cQAdgCIGAm6dYUoDCTO0fPqrFa8rkwIdljl7bSU5eVb4ss_HI6\u0026lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps\u0026lsig=APaTxxMwRQIhAMWKIq5aD8_-RqatYpp2Af8NCAb6fmg3uutplCPZP7dwAiB5xWJgHhkWZLgjbgK5eG_soVsMepRsQuzNKqhr938SXQ%3D%3D",
+                         "icono":  "NAT",
+                         "youtubeId":  "-v97MKSgDHk",
+                         "categoria":  "WELLNESS"
+                     },
+                     {
+                         "id":  "meditation",
+                         "name":  "Meditation 24/7",
+                         "url":  "https://rr4---sn-aigzrn7e.googlevideo.com/videoplayback?expire=1777598524\u0026ei=3KvzaaXwLP-ivdIPnNHD6Ak\u0026ip=90.160.143.26\u0026id=o-AAScGDT1diPx2X-32c2WCp2eVYAnSPZnuCGyiDv3WuvZ\u0026itag=18\u0026source=youtube\u0026requiressl=yes\u0026xpc=EgVo2aDSNQ%3D%3D\u0026cps=324\u0026met=1777576924%2C\u0026mh=gw\u0026mm=31%2C29\u0026mn=sn-aigzrn7e%2Csn-h5q7knld\u0026ms=au%2Crdu\u0026mv=m\u0026mvi=4\u0026pl=22\u0026rms=au%2Cau\u0026initcwndbps=758750\u0026bui=AbKmrwr_EDeTzlh8au9tbNaWgI45p7equvR1ObBDakeFovmdmb2fEJ8UHmfi2jyMFgcKhpO8iRZqvhWR\u0026spc=96Xrv__LH2UIsid3OreoxIDYlEER8Qe0_9gSL64jRHwzLaKPrQvJ\u0026vprv=1\u0026svpuc=1\u0026mime=video%2Fmp4\u0026rqh=1\u0026gir=yes\u0026clen=4592038\u0026ratebypass=yes\u0026dur=316.836\u0026lmt=1752670186641727\u0026mt=1777576422\u0026fvip=1\u0026fexp=51565115%2C51565682\u0026c=ANDROID_VR\u0026txp=4538534\u0026sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt\u0026sig=AHEqNM4wRAIgIEwDQ6odcl-_n99liNkZuM5_5PlyYWZf2yAI_YwNvXICIBrXqYNDhj5Q5i42yymO9-2ezYStjfgvQEaOb1E-bTdI\u0026lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps\u0026lsig=APaTxxMwRgIhAN7B6FOnNUbr8uY7pqgSZGk4bZ37Oyr5LdTvulabHamVAiEA54zvLv3pGeTw1mTdysoF4IAqLP65eBOZbAZd96OIdgY%3D",
+                         "icono":  "MED",
+                         "youtubeId":  "inpok4MKVLM",
+                         "categoria":  "WELLNESS"
+                     }
+                 ]
 }

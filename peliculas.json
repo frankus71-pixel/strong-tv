@@ -1,0 +1,22 @@
+﻿[
+  {
+    "id": "pelicula-prueba-1",
+    "titulo": "Película de prueba",
+    "categoria": "Pruebas",
+    "anio": 2026,
+    "poster": "https://via.placeholder.com/300x450.png?text=F71TV+Pelicula",
+    "sinopsis": "Contenido de prueba para validar la nube F71TV.",
+    "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "tipo": "m3u8"
+  },
+  {
+    "id": "pelicula-prueba-2",
+    "titulo": "Película MP4 de prueba",
+    "categoria": "Pruebas",
+    "anio": 2026,
+    "poster": "https://via.placeholder.com/300x450.png?text=MP4+Test",
+    "sinopsis": "Archivo MP4 de prueba para comprobar reproducción directa.",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "tipo": "mp4"
+  }
+]
