@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-16T20:30:00Z",
+    "updated": "2026-05-16T21:30:00Z",
     "channels": [
         {
             "id": "gym_motiv",
@@ -34,25 +34,17 @@
             "categoria": "FITNESS"
         },
         {
-            "id": "fiton",
-            "name": "FitOn TV",
-            "url": "https://rakuten-fiton-1-de.samsung.wurl.tv/playlist.m3u8",
-            "icono": "FTON",
-            "youtubeId": "",
-            "categoria": "FITNESS"
-        },
-        {
-            "id": "powernation",
-            "name": "PowerNation",
-            "url": "https://powernation-samsung.amagi.tv/playlist.m3u8",
-            "icono": "PWR",
-            "youtubeId": "",
-            "categoria": "FITNESS"
-        },
-        {
             "id": "redbull_hd",
             "name": "Red Bull TV HD",
             "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+            "icono": "RB",
+            "youtubeId": "",
+            "categoria": "SPORT"
+        },
+        {
+            "id": "redbull",
+            "name": "Red Bull TV",
+            "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
             "icono": "RB",
             "youtubeId": "",
             "categoria": "SPORT"
@@ -67,73 +59,25 @@
         },
         {
             "id": "fuel_tv",
-            "name": "Fuel TV",
-            "url": "https://fueltv-samsung.amagi.tv/playlist.m3u8",
+            "name": "Fuel TV EMEA",
+            "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
             "icono": "FUEL",
             "youtubeId": "",
             "categoria": "SPORT"
         },
         {
-            "id": "bein_xtra",
-            "name": "beIN Sports Xtra",
-            "url": "https://bein-xtra-roku-us.amagi.tv/playlist.m3u8",
-            "icono": "BEIN",
+            "id": "mtrspt1",
+            "name": "MTRSPT1",
+            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8?channel_name=MTRSPT1",
+            "icono": "MTR",
             "youtubeId": "",
             "categoria": "SPORT"
         },
         {
-            "id": "motorvision",
-            "name": "Motorvision TV",
-            "url": "https://motorvision-rakuten.amagi.tv/playlist.m3u8",
-            "icono": "MOT",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "edgesport",
-            "name": "Edge Sport",
-            "url": "https://edgesport-samsungau.amagi.tv/playlist.m3u8",
-            "icono": "EDG",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "unbeaten",
-            "name": "Unbeaten Sports",
-            "url": "https://unbeaten-samsunguk.amagi.tv/playlist.m3u8",
-            "icono": "UNB",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "matchroom",
-            "name": "Matchroom Sports",
-            "url": "https://matchroom-samsunguk.amagi.tv/playlist.m3u8",
-            "icono": "MRM",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "plex_deportes",
-            "name": "Plex Deportes",
-            "url": "https://lnc-plex-deportes.amagi.tv/playlist.m3u8",
-            "icono": "PLX",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "claro_sports",
-            "name": "Claro Sports",
-            "url": "https://clarosports-samsung.amagi.tv/playlist.m3u8",
-            "icono": "CLR",
-            "youtubeId": "",
-            "categoria": "SPORT"
-        },
-        {
-            "id": "motorvision_es",
-            "name": "Motorvision ES",
-            "url": "https://motorvision-rakutenes.amagi.tv/playlist.m3u8",
-            "icono": "MOTES",
+            "id": "outsidetv",
+            "name": "Outside TV",
+            "url": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
+            "icono": "OUT",
             "youtubeId": "",
             "categoria": "SPORT"
         },
@@ -154,42 +98,10 @@
             "categoria": "SPORT"
         },
         {
-            "id": "wildearth",
-            "name": "WildEarth",
-            "url": "https://amg01290-escapetonature-wildearth-samsungbr-lrpjr.amagi.tv/playlist.m3u8",
-            "icono": "WILD",
-            "youtubeId": "",
-            "categoria": "WELLNESS"
-        },
-        {
-            "id": "naturevision",
-            "name": "NatureVision TV",
-            "url": "https://naturevision-samsung.wurl.tv/playlist.m3u8",
-            "icono": "NAT",
-            "youtubeId": "",
-            "categoria": "WELLNESS"
-        },
-        {
-            "id": "bobross",
-            "name": "Bob Ross Channel",
-            "url": "https://cinedigm-bobross-lg.amagi.tv/playlist.m3u8",
-            "icono": "BOB",
-            "youtubeId": "",
-            "categoria": "WELLNESS"
-        },
-        {
-            "id": "runtime_nat",
-            "name": "Runtime Naturaleza",
-            "url": "https://runtime-naturaleza-rakuten.amagi.tv/playlist.m3u8",
-            "icono": "RNT",
-            "youtubeId": "",
-            "categoria": "WELLNESS"
-        },
-        {
-            "id": "holatv",
-            "name": "Hola TV",
-            "url": "https://holatv-samsung.amagi.tv/playlist.m3u8",
-            "icono": "HOLA",
+            "id": "myzen",
+            "name": "MyZen TV Fit",
+            "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+            "icono": "ZEN",
             "youtubeId": "",
             "categoria": "WELLNESS"
         },
@@ -212,40 +124,16 @@
         {
             "id": "gustotv",
             "name": "Gusto TV",
-            "url": "https://gustotv-samsung.wurl.tv/playlist.m3u8",
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
             "icono": "GST",
             "youtubeId": "",
             "categoria": "SALUD"
         },
         {
-            "id": "betterhealth",
-            "name": "Better Health TV",
-            "url": "https://uni5rtmp.tulix.tv/betterhealth/betterhealth/playlist.m3u8",
-            "icono": "BHT",
-            "youtubeId": "",
-            "categoria": "SALUD"
-        },
-        {
-            "id": "museumtv",
-            "name": "Spark TV Lifestyle",
-            "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8",
-            "icono": "SPK",
-            "youtubeId": "",
-            "categoria": "SALUD"
-        },
-        {
-            "id": "bumblebee",
-            "name": "Bumblebee TV Life",
-            "url": "https://stitcheraws-bumblebeetvlifebae-samsungus.amagi.tv/playlist.m3u8",
-            "icono": "BEE",
-            "youtubeId": "",
-            "categoria": "SALUD"
-        },
-        {
-            "id": "biglife",
-            "name": "Big Life TV",
-            "url": "https://biglife.sinclair.wurl.com/manifest/playlist.m3u8",
-            "icono": "BIG",
+            "id": "tastemade",
+            "name": "Tastemade",
+            "url": "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8",
+            "icono": "TASTE",
             "youtubeId": "",
             "categoria": "SALUD"
         }
