@@ -1,71 +1,71 @@
 {
-  "updated": "2026-05-16T22:00:00Z",
-  "ok": 8,
+  "updated": "2026-06-03T04:41:47Z",
+  "ok": 1,
   "total": 8,
   "channels": [
     {
-      "id": "redbull",
-      "name": "Red Bull TV",
-      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-      "icono": "RB",
-      "youtubeId": "",
-      "categoria": "SPORT"
+      "id": "gym_motiv",
+      "name": "Gym Motivation 2026",
+      "youtubeId": "S-zWt5mSwhc",
+      "categoria": "FITNESS",
+      "icono": "💪",
+      "url": ""
     },
     {
-      "id": "fuel_tv",
-      "name": "Fuel TV EMEA",
-      "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-      "icono": "FUEL",
-      "youtubeId": "",
-      "categoria": "SPORT"
+      "id": "fitness_wk",
+      "name": "Fitness Workout Music",
+      "youtubeId": "72qDoA3SwEs",
+      "categoria": "FITNESS",
+      "icono": "🏋",
+      "url": ""
     },
     {
-      "id": "mtrspt1",
-      "name": "MTRSPT1",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8?channel_name=MTRSPT1",
-      "icono": "MTR",
-      "youtubeId": "",
-      "categoria": "SPORT"
+      "id": "workout_r",
+      "name": "Workout Radio 24/7",
+      "youtubeId": "G7ksDUqUVqA",
+      "categoria": "FITNESS",
+      "icono": "🎵",
+      "url": ""
     },
     {
-      "id": "outsidetv",
-      "name": "Outside TV",
-      "url": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
-      "icono": "OUT",
-      "youtubeId": "",
-      "categoria": "SPORT"
+      "id": "gym_128",
+      "name": "Gym Music 128 BPM",
+      "youtubeId": "CxqCkeA63Us",
+      "categoria": "FITNESS",
+      "icono": "⚡",
+      "url": ""
     },
     {
-      "id": "freesports",
-      "name": "World of FreeSports",
-      "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
-      "icono": "FS",
-      "youtubeId": "",
-      "categoria": "SPORT"
+      "id": "running_r",
+      "name": "Running Sport Radio",
+      "youtubeId": "YDuz4mAtyf4",
+      "categoria": "SPORT",
+      "icono": "🏃",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780483303/ei/h7Afarn1NPadvPEPiprk6Aw/ip/52.173.163.128/id/YDuz4mAtyf4.9/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-vgqsrnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/us/bui/AbKmrwoDBZJasiWqoAWPL1eKUsQOc9Xtv6KUFG2czVQIxPXej8ESTgfOnZDEjfvg4O0MvesXS8nrCNG1/vprv/1/reg/0/playlist_type/DVR/met/1780461704,/mh/EK/mm/44/mn/sn-vgqsrnld/ms/lva/mv/u/mvi/2/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780461464/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,vprv,reg,playlist_type/sig/AHEqNM4wRAIgJ0SmQ1fFr5UYek1sXivJ85wYInudrngz8U-fhMscm8cCICYFH0DqZLAks1ngybQYyzwpZSsZPI5EqFgHzM4BQqKp/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgfCjZpkHizc4_j15A_YXghfusu9krLU4vqziumQn0SsACIQCSIQWyIAE6_zKm-w53rEDXIm2GqyG0xvDSsG8zjLmoiQ%3D%3D/playlist/index.m3u8"
     },
     {
-      "id": "myzen",
-      "name": "MyZen TV Fit",
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
-      "icono": "ZEN",
-      "youtubeId": "",
-      "categoria": "WELLNESS"
+      "id": "maxoazo",
+      "name": "Max Oazo Live Radio",
+      "youtubeId": "OeZ88byX6E4",
+      "categoria": "SPORT",
+      "icono": "🎧",
+      "url": ""
     },
     {
-      "id": "gustotv",
-      "name": "Gusto TV",
-      "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-      "icono": "GST",
-      "youtubeId": "",
-      "categoria": "SALUD"
+      "id": "nature",
+      "name": "Nature Sounds 24/7",
+      "youtubeId": "-v97MKSgDHk",
+      "categoria": "WELLNESS",
+      "icono": "🌿",
+      "url": ""
     },
     {
-      "id": "tastemade",
-      "name": "Tastemade",
-      "url": "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8",
-      "icono": "TASTE",
-      "youtubeId": "",
-      "categoria": "SALUD"
+      "id": "meditation",
+      "name": "Meditation 24/7",
+      "youtubeId": "inpok4MKVLM",
+      "categoria": "WELLNESS",
+      "icono": "🧘",
+      "url": ""
     }
   ]
 }
