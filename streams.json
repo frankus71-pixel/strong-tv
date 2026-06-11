@@ -1,70 +1,84 @@
-﻿{
-    "updated":  "2026-06-11T08:53:07Z",
-    "ok":  7,
-    "total":  8,
+{
+    "updated":  "2026-06-11T12:35:45Z",
     "channels":  [
                      {
                          "id":  "redbull",
                          "name":  "Red Bull TV",
-                         "url":  "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
                          "icono":  "RB",
                          "youtubeId":  "",
-                         "categoria":  "SPORT"
-                     },
-                     {
-                         "id":  "fuel_tv",
-                         "name":  "Fuel TV EMEA",
-                         "url":  "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-                         "icono":  "FUEL",
-                         "youtubeId":  "",
-                         "categoria":  "SPORT"
-                     },
-                     {
-                         "id":  "mtrspt1",
-                         "name":  "MTRSPT1",
-                         "url":  "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8?channel_name=MTRSPT1",
-                         "icono":  "MTR",
-                         "youtubeId":  "",
-                         "categoria":  "SPORT"
-                     },
-                     {
-                         "id":  "outsidetv",
-                         "name":  "Outside TV",
-                         "url":  "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
-                         "icono":  "OUT",
-                         "youtubeId":  "",
+                         "url":  "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
                          "categoria":  "SPORT"
                      },
                      {
                          "id":  "freesports",
                          "name":  "World of FreeSports",
-                         "url":  "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
                          "icono":  "FS",
                          "youtubeId":  "",
+                         "url":  "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+                         "categoria":  "SPORT"
+                     },
+                     {
+                         "id":  "fuel_tv",
+                         "name":  "Fuel TV",
+                         "icono":  "FUEL",
+                         "youtubeId":  "",
+                         "url":  "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+                         "categoria":  "SPORT"
+                     },
+                     {
+                         "id":  "mtrspt1",
+                         "name":  "MTRSPT1",
+                         "icono":  "MTR",
+                         "youtubeId":  "",
+                         "url":  "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8",
+                         "categoria":  "SPORT"
+                     },
+                     {
+                         "id":  "outsidetv",
+                         "name":  "Outside TV",
+                         "icono":  "OUT",
+                         "youtubeId":  "",
+                         "url":  "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
+                         "categoria":  "SPORT"
+                     },
+                     {
+                         "id":  "motorsport",
+                         "name":  "Motorsport Network",
+                         "icono":  "MOTO",
+                         "youtubeId":  "",
+                         "url":  "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
+                         "categoria":  "SPORT"
+                     },
+                     {
+                         "id":  "dazn",
+                         "name":  "DAZN Combat",
+                         "icono":  "DAZN",
+                         "youtubeId":  "",
+                         "url":  "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
                          "categoria":  "SPORT"
                      },
                      {
                          "id":  "myzen",
-                         "name":  "MyZen TV Fit",
-                         "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+                         "name":  "MyZen TV",
                          "icono":  "ZEN",
                          "youtubeId":  "",
+                         "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
                          "categoria":  "WELLNESS"
-                     },
-                     {
-                         "id":  "gustotv",
-                         "name":  "Gusto TV",
-                         "url":  "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-                         "icono":  "GST",
-                         "youtubeId":  "",
-                         "categoria":  "SALUD"
                      },
                      {
                          "id":  "tastemade",
                          "name":  "Tastemade",
-                         "url":  "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8",
                          "icono":  "TASTE",
                          "youtubeId":  "",
+                         "url":  "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8",
+                         "categoria":  "SALUD"
+                     },
+                     {
+                         "id":  "gusto",
+                         "name":  "Gusto TV",
+                         "icono":  "GST",
+                         "youtubeId":  "",
+                         "url":  "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
                          "categoria":  "SALUD"
                      }
                  ]
